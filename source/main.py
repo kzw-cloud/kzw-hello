@@ -1,4 +1,4 @@
 print("*****************************")
 print("Hello Google Cloud and World!")
 print("*****************************")
-print("by @kzw - May 2023 - Update 1")
+print("by @kzw - May 2023 - Update 2")
